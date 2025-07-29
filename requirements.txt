@@ -3,3 +3,4 @@ pydicom
 chardet
 openpyxl
 pandas
+paddleocr
