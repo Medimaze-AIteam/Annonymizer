@@ -1,7 +1,7 @@
 import time
 import streamlit as st
 import os
-from annonymize import modify_dicom_files, erase_and_save_details
+from anonymize import modify_dicom_files, erase_and_save_details
 
 st.title("DICOM Anonymization")
 
