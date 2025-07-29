@@ -1,0 +1,10 @@
+streamlit
+paddleocr
+paddlepaddle
+tqdm
+beautifulsoup4
+pillow
+numpy
+pandas
+pydicom
+chardet
